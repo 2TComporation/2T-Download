@@ -38,6 +38,11 @@
     font-family: verdana;
     color: white;
     }
+    #POL7 {
+    font-size: 12px;
+    font-family: verdana;
+    color: #c0c0c0;
+    }
 }
 #WELCOMEH1 {
     font-size: 30px;
@@ -77,6 +82,11 @@
     font-size: 12px;
     font-family: verdana;
     color: red;
+} 
+#POL7 {
+    font-size: 12px;
+    font-family: verdana;
+    color: #c0c0c0;
 }    
 #BUTT1 {
     color: white;
